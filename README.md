@@ -1,8 +1,4 @@
-# PullToLoadData-RecyclerView #
-----------
-
-实现RecyclerView的上拉加载功能
-
+*心灵鸡汤：知之者不如好之者，好之者不如乐之者。*
 
 # 摘要 #
 
@@ -450,6 +446,9 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 
 以上代码我是考虑到了更多的边界条件，所以在代码上会稍微多了一点，但是也不影响观看。大家也可以通过改变数据源的数量和PAGE_COUNT等来测试，每个人在具体使用上都会有不同的要求，所以基本代码我摆了出来，众口难调，更多的细节需要大家来优化，例如footView可以设置一个动画条，下拉刷新用其他样式替换原生的样式等，我想，这些对于学习完这篇文章的你来说，都会是简单的问题了。
 
+# Demo下载 #
 
+Github下载：[PullToLoadData-RecyclerView](https://github.com/ryanlijianchang/PullToLoadData-RecyclerView)
 
+CSDN资源：[PullToLoadData-RecyclerView](http://download.csdn.net/detail/ljcitworld/9813262)
 
